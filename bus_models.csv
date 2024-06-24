@@ -1,0 +1,13 @@
+﻿id,short_name,full_name,oem,bus_dimension,curb weight,GVW,Air Conditioning,Seating Capacity,bus_cost,Charger Type,power_consumption,battery_capacity,battery_cost
+1,Lito,Foton-PMI-Lito,Foton-PMI,Mini (6 - 7 m),6800,8500,Yes,16,7000000,GB/T; CCS,0.68,77,3500000
+2,Ebus K6,Olectra-Ebus K6,Olectra,Mini (6 - 7 m),7644,9555,Yes,22,7000000,GB/ T,0.76,120,3500000
+3,Ultra 9/9m,Tata Motors-Ultra 9/9m,Tata Motors,Midi (9 m),8280,10350,Optional,31,9000000,CCS2,0.83,124,4500000
+4,Ebus K7,Olectra-Ebus K7,Olectra,Midi (9 m),10800,13500,Yes,31,9000000,GB/ T,1.08,180,4500000
+5,Regio,Foton-PMI-Regio,Foton-PMI,Midi (9 m),10000,12500,Yes,30,9000000,GB/T; CCS,1.00,102,4500000
+6,ECOLIFE 9m,JBM Solaris-ECOLIFE 9m,JBM Solaris,Midi (9 m),10800,13500,Optional,32,9000000,CCS2,1.08,160,4500000
+7,Urban 9/12m,Tata Motors-Urban 9/12m,Tata Motors,Standard (12 m),14440,18050,Optional,40,12000000,CCS2,1.44,186,6000000
+8,Starbus 4/12m,Tata Motors-Starbus 4/12m,Tata Motors,Standard (12 m),15600,19500,Optional,31,12000000,CCS2,1.56,250,6000000
+9,Ebus K9,Olectra-Ebus K9,Olectra,Standard (12 m),14400,18000,Yes,39,12000000,GB/ T,1.44,324,6000000
+10,Urban,Foton-PMI-Urban,Foton-PMI,Standard (12 m),14400,18000,Yes,35,12000000,GB/T; CCS,1.44,152,6000000
+11,ECOLIFE 12m,JBM Solaris-ECOLIFE 12m,JBM Solaris,Standard (12 m),14400,18000,Optional,40,12000000,CCS2,1.44,200,6000000
+12,Foton-Lucknow,Foton-PMI-Lucknow,Foton-PMI,Midi (9 m),10400,13000,Yes,30,10000000,GB/T; CCS,1,151,5000000
